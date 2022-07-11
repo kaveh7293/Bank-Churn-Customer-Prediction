@@ -20,6 +20,6 @@
 <p> A k-means clustering algorithm has been usded to do a customer segmentation. We used the elbow method to determine the appropriate number of clusters that should be used for our analysis. The following figure shows the change in wcss vs. the number of clusters. Based on the following figure, I used 7 cluster segments.<br>
 <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/download2.png' width="400" height="300"><br>
 The corresponding visualization for the corresponding clusters are shown in the following figures based on the first three principal components of the data. Note that the first two principal components can describe aboute 41% of the variation in the data and the the first three can describe 53% of the data, so the following figures are only arround a half of total variability in the data. As can be seen, however, the variability of the clusters can be seen in the following figures even with 50% of total variability:<br>
-<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t1_t2.png' width="400" height="300"><br>
-<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t3_t1.png' width="400" height="300"><br>
+<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t1_t2.png' width="500" height="300"><br>
+<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t3_t1.png' width="500" height="300"><br>
 </p>
