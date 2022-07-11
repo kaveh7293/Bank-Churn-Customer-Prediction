@@ -18,4 +18,4 @@
 </p>
 <h3> Clustering algorithm</h3>
 <p> A k-means clustering algorithm has been usded to do a customer segmentation. We used the elbow method to determine the appropriate number of clusters that should be used for our analysis. The following figure shows the change in wcss vs. the number of clusters. Based on the following figure, I used 7 cluster segments.</p>
-<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/download.png' width="400" height="300">
+<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/download.png' width="400" height="301">
