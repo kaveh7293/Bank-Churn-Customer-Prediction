@@ -4,7 +4,7 @@
 <h3>Road Map for Solving the Problem</h3>
 <p> We use the following steps to identify customers who are going to leave the bank:<br>
   <ol>
-    <li>Use a clustering algorithm to segment customers. We do that by using a simple k-means clustering algorithm. Afterwards, one can obtain the fraction of each cluster who left the banking services. The cluster with a higher fraction of customers who left the bank is identified, and their features are determined using explanatory data analysis and PCA<\li>
+    <li>Use a clustering algorithm to segment customers. We do that by using a simple k-means clustering algorithm. Afterwards, one can obtain the fraction of each cluster who left the banking services. The cluster with a higher fraction of customers who left the bank is identified, and their features are determined using explanatory data analysis and PCA. <\li>
     <li>Use a classification algorithm to fit a classification algorithm. By doing so, the bank compnay can identify their customers who are going to leave the company. I did this algorithm by using a random forest algorithm.</li>
     
   </ol>
