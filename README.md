@@ -9,6 +9,7 @@
     <li>Use a classification algorithm to fit a classification algorithm. By doing so, the bank compnay can identify their customers who are going to leave the company. I did this algorithm by using a random forest algorithm.</li>
     
   </ol>
-<>
+<h3> Data preprocessing </h3>
+<p> The initial data set for this data analysis problem is shown in Figure 1.
 <h3> Clustering algorithm</h3>
 <>
