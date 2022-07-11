@@ -12,4 +12,4 @@
 <h3> Data preprocessing </h3>
 <p> The initial data set for this data analysis problem is shown in Figure 1.
 <h3> Clustering algorithm</h3>
-<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Screenshot%202022-07-11%20140037.png' width="42" height="24">
+<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Screenshot%202022-07-11%20140037.png' width="300" height="200">
