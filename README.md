@@ -10,6 +10,7 @@
     
   </ol>
 <h3> Data preprocessing </h3>
-<p> The initial data set for this data analysis problem is shown in Figure 1.
+<p> The initial data set for this data analysis problem is shown as follows:<br>
+  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Screenshot%202022-07-11%20140037.png' width="750" height="200">
+</p>
 <h3> Clustering algorithm</h3>
-<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Screenshot%202022-07-11%20140037.png' width="700" height="200">
