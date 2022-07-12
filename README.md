@@ -24,6 +24,8 @@ The results of the customer segmentation showed that 37% of the customers in the
   The corresponding visualization for the corresponding clusters are shown in the following figures based on the first three principal components of the data. Note that the first two principal components can describe aboute 41% of the variation in the data and the the first three can describe 53% of the data, so the following figures are only arround a half of total variability in the data. As can be seen, however, the variability of the clusters can be seen in the following figures even with 50% of total variability:<br>
 <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t1_t2.png' width="500" height="300"><br>
 <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t3_t1.png' width="500" height="300"><br>
+<img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t3_t2.png' width="500" height="300"><br>
+
   One important value that can be determined based on the t score values are the loading value. The highest loading value corresponding to the first principal component is the age column and 
   
   In the next step, I determined the fraction of each cluster that left the bank. By doing so we can identify the common characteristics that the customers share in the cluster with a higher fraction of. The analysis showed that people in the third cluster are more prone to leave the bank. As a result, we determine their common characteristics.
