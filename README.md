@@ -28,8 +28,8 @@ The results of the customer segmentation showed that 37% of the customers in the
 
   Note that the yellow dots are the corresponding customer cluster with a maximum fraction of people who are prone to leave, and the cluster in purple is the one with the smallest fraction of people who are prone to leave the bank. As shown in the figures above these the yellow cluster is located on the negative part of t1 and t2 axes and is at the center of t3 axis. However, the purple clusters are located on the positive part of the t2 and t3 axes and on the central part of the t1 axis. As a result, using the loading plots for different features can provide informative results regarding the important features that distinguish cluster members in yellow and purple clusters. Both green and yellow clusters are in the negative part of t1 axis, so information regarding the loading values along the first principal component only provide results about their common features. As shown in the following table<br>
   One important value that can be determined based on the t score values are the loading value. The highest loading value corresponding to the first principal component is the age column and <br>
-  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC1.png' width="600" height="300"><br>
-  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC2.png' width="600" height="300"><br>
-  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC3.png' width="600" height="300"><br>
+  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC1.png' width="800" height="300"><br>
+  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC2.png' width="800" height="300"><br>
+  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/PC3.png' width="800" height="300"><br>
   In the next step, I determined the fraction of each cluster that left the bank. By doing so we can identify the common characteristics that the customers share in the cluster with a higher fraction of. The analysis showed that people in the third cluster are more prone to leave the bank. As a result, we determine their common characteristics.
 </p>
