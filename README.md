@@ -41,4 +41,5 @@ I used seven clusters as the optimum customer segments. To further understand di
 <li> Customers in the <strong> red cluster </strong> are <strong> mostly men</strong> and the they are mostly from the fifth income category (i.e., more than 120 K USD).</li>
 
    </ol>
+ The code for the above calculations can be found <a href='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/bank_churn.ipynb'>here.<a> 
 </p>
