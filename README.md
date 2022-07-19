@@ -23,7 +23,9 @@
 <h3> Clustering Algorithm</h3>
 <p> A k-means clustering algorithm has been usded to do a customer segmentation. We used the elbow method to determine the appropriate number of clusters that should be used for our analysis. The following figure shows the change in wcss vs. the number of clusters. Based on the following figure, I used 7 cluster segments.<br>
 <img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/wcss.png'><br>
-The results of the customer segmentation showed that 37% of the customers in the fifth cluster left the bank (about 100% more than the average value of 16%). The seventh cluster had the smallest fraction of customers that left the bank. To evluate the important features that are noticeably influence the clusters, I used a PCA dimension reduction to  facilitate the visualization.
+
+I used seven clusters as the optimum customer segments. To further understand different customer behaviors, I used a biplot which plot the projected data on the principal components and the loading plots simultanously.
+  
   
   The corresponding visualization for the corresponding clusters are shown in the following figures based on the first three principal components of the data. Note that the first two principal components can describe aboute 41% of the variation in the data and the the first three can describe 53% of the data, so the following figures are only arround a half of total variability in the data. As can be seen, however, the variability of the clusters can be seen in the following figures even with 53% of total variability:<br>
 <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/t1_t2.png' width="500" height="300"><br>
