@@ -38,5 +38,7 @@ I used seven clusters as the optimum customer segments. To further understand di
     <li>Customers in the <strong> blue cluster </strong> have a <strong> high credit limit </strong> and a <strong> high average open to buy</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>)</li>
     <li>Customers in the <strong> pink cluster </strong> have a <strong> high revolving balance </strong>,  and a <strong> high transacation amount</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>)</li>
 <li> Customers in the <strong> purple cluster </strong> have <strong> a high amount of change in Q4 over Q1 </strong>.</li>
+<li> Customers in the <strong> red cluster </strong> have <strong> a high amount of change in Q4 over Q1 </strong>.</li>
+
     </ol>
 </p>
