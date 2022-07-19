@@ -17,7 +17,7 @@
   
 </p>
 <h3> Dimension Reduction </h3>
-<p> I obtained the following plot to determine the appropriate numbers of principal components which could explain aroung 80 % of the variability in the data.
+<p> I obtained the following plot to determine the appropriate numbers of principal components which could explain aroung 80 % of the variability in the data. As shown, the first seven principal components explain 79 % of the variability in the data. As a result, I use seven pricipal components for dimensin reduction. <br>
   <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Explained_Variance.png' width='600' height='450'>
  </p> 
 <h3> Clustering Algorithm</h3>
