@@ -17,6 +17,9 @@
   
 </p>
 <h3> Dimension Reduction </h3>
+<p> I obtained the following plot to determine the appropriate numbers of principal components which could explain aroung 80 % of the variability in the data.
+  <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/Explained_Variance.png' width='600' height='450'>
+ </p> 
 <h3> Clustering Algorithm</h3>
 <p> A k-means clustering algorithm has been usded to do a customer segmentation. We used the elbow method to determine the appropriate number of clusters that should be used for our analysis. The following figure shows the change in wcss vs. the number of clusters. Based on the following figure, I used 7 cluster segments.<br>
 <img src='https://github.com/kaveh7293/Bank-Churn-Customer-Prediction/blob/main/download2.png' width="400" height="300"><br>
