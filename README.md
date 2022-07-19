@@ -35,10 +35,10 @@ I used seven clusters as the optimum customer segments. To further understand di
 </p>
 <p> The following important conclustions can be made based on the biplots shown above:
   <ol>
-    <li>Customers in the <strong> blue cluster </strong> have a <strong> high credit limit </strong> and a <strong> high average open to buy</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>)</li>
-    <li>Customers in the <strong> pink cluster </strong> have a <strong> high revolving balance </strong>,  and a <strong> high transacation amount</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>)</li>
+    <li>Customers in the <strong> blue cluster </strong> have a <strong> high credit limit </strong> and a <strong> high average open to buy</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>). Note that customers in the <strong> black cluster</strong> have a <strong>low credit limit</strong> and a <strong>low average open to buy</strong>.</li>
+    <li>Customers in the <strong> pink cluster </strong> have a <strong> high revolving balance </strong>,  and a <strong> high transacation amount</strong>. The customers in this cluster are more from geneder_2 (i.e., they are <strong> women </strong>).</li>
 <li> Customers in the <strong> purple cluster </strong> have <strong> a high amount of change in Q4 over Q1 </strong>.</li>
-<li> Customers in the <strong> red cluster </strong> have <strong> a high amount of change in Q4 over Q1 </strong>.</li>
+<li> Customers in the <strong> red cluster </strong> are <strong> mostly men</strong> and the they are mostly from the fifth income category (i.e., more than 120 K USD).</li>
 
-    </ol>
+   </ol>
 </p>
