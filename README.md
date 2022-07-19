@@ -25,7 +25,12 @@
 <img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/wcss.png'><br>
 
 I used seven clusters as the optimum customer segments. To further understand different customer behaviors, I used a biplot which plot the projected data on the principal components and the loading plots simultanously.<br>
-
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC2_PC1.png'><br>
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC3PC1.png'><br>
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC4PC1.png'><br>
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC5_PC1.png'><br>
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC6_PC1.png'><br>
+<img src='https://github.com/kaveh7293/Bank-Customer-Segmentation/blob/main/PC7.png'><br>
   Note that the light blue arrows are the feature vectors projected onto the principal components.
 </p>
 <p> The following important conclustions can be made based on the biplots shown above:
